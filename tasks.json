@@ -1,0 +1,16 @@
+[
+  {"id": "k01", "title": "Submit tax documents", "due": "2026-06-12"},
+  {"id": "k02", "title": "Call dentist to reschedule", "due": "2026-06-18"},
+  {"id": "k03", "title": "Review Searose backup logs", "due": "2026-06-20"},
+  {"id": "k04", "title": "Reply to recruiter email", "due": "2026-06-20"},
+  {"id": "k05", "title": "Renew domain name", "due": "2026-06-25"},
+  {"id": "k06", "title": "Prep macro-tracker mockup", "due": "2026-07-02"},
+  {"id": "k07", "title": "Pay credit card bill", "due": "2026-06-15"},
+  {"id": "k08", "title": "Water the plants", "due": "2026-06-20"},
+  {"id": "k09", "title": "Read FastAPI docs intro", "due": "2026-06-28"},
+  {"id": "k10", "title": "Back up photos to R2", "due": "2026-06-08"},
+  {"id": "k11", "title": "Brainstorm app ideas"},
+  {"id": "k12", "title": "Schedule annual checkup", "due": "2026-07-10"},
+  {"id": "k13", "title": "Fix typo on landing page", "due": "2026-06-19"},
+  {"id": "k14", "title": "Organize desk"}
+]

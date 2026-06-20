@@ -1,4 +1,5 @@
 import json
+from datetime import date
 
 with open("transactions.json") as f:
     transactions = json.load(f)
@@ -33,3 +34,7 @@ for category, total in sorted(category_totals.items(), key=lambda x: x[1], rever
     print(f"{category:<15} {total:>8.2f}")
 print(f"total expenses: {total_expenses:>8.2f}")
 
+with open("tasks.json") as f:
+    tasks = json.load(f)
+
+print("\nTasks:")
